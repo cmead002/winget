@@ -1,1 +1,1 @@
-winget install -e --id WinSCP.WinSCP
+winget install -e --id WinSCP.WinSCP;winget install -e --id WireGuard.WireGuard;winget install -e --id WiresharkFoundation.Wireshark;winget install -e --id WinDirStat.WinDirStat;winget install -e --id WhatsApp.WhatsApp;winget install -e --id Valve.Steam;winget install -e --id Toinane.Colorpicker
